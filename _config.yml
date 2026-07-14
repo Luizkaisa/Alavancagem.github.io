@@ -1,0 +1,11 @@
+title: Bitcoiners que Vivem de Alavancagem
+description: Simulador de operações alavancadas em Bitcoin
+theme: minima
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - index.md
