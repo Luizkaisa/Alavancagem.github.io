@@ -13,7 +13,7 @@
 | Daniel Ricardo de Araújo Seguro | 251007430 |
 | Caio Vitor Martins Souza | — |
 
-## Acessos para Apresentação e GitHub Pages
+## Acesso para Apresentação
 
 Apresentação:
 
