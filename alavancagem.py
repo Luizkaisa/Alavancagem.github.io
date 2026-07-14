@@ -1,3 +1,10 @@
+# Grupo 10
+# Luiz Alves Correia Neto – 190083191​
+# Jonas de Souza Fagundes – 180076272​
+# Daniel Ricardo de Araújo Seguro - 251007430​
+# Caio Vitor Martins Souza -   
+
+
 def preco_liquidacao(entrada, alavancagem, lado, margem_manutencao=0.005):
     if lado == "long":
         return entrada * (1 - 1 / alavancagem + margem_manutencao)
