@@ -11,7 +11,8 @@ header_pages:
   - index.md
 
 
-
+url: "https://luizkaisa.github.io"
+baseurl: "/Alavancagem"
 # Opções genéricas usadas por alguns temas (não quebram nada se não forem usadas)
 show_downloads: false
 github:
