@@ -2,7 +2,7 @@
 # Luiz Alves Correia Neto – 190083191​
 # Jonas de Souza Fagundes – 180076272​
 # Daniel Ricardo de Araújo Seguro - 251007430​
-# Caio Vitor Martins Souza -   
+# Caio Vitor Martins Souza -   251007108
 
 
 def preco_liquidacao(entrada, alavancagem, lado, margem_manutencao=0.005):
